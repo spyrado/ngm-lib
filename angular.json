@@ -12,7 +12,7 @@
       },
       "root": "projects/ngm/ngm",
       "sourceRoot": "projects/ngm/ngm/src",
-      "prefix": "lib",
+      "prefix": "ngm",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
