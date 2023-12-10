@@ -1,16 +1,8 @@
 import { NgModule } from '@angular/core';
-import { NgmComponent } from './ngm.component';
-
-
 
 @NgModule({
-  declarations: [
-    NgmComponent
-  ],
-  imports: [
-  ],
-  exports: [
-    NgmComponent
-  ]
+  declarations: [],
+  imports: [],
+  exports: [],
 })
-export class NgmModule { }
+export class NgmModule {}
