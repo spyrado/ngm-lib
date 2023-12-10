@@ -2,6 +2,5 @@
  * Public API Surface of ngm
  */
 
-export * from './lib/ngm.service';
-export * from './lib/ngm.component';
+export * from './lib/button/button.module';
 export * from './lib/ngm.module';
