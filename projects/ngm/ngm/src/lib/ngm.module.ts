@@ -1,8 +1,9 @@
 import { NgModule } from '@angular/core';
+import { NgmButtonModule } from './button/button.module';
 
 @NgModule({
   declarations: [],
-  imports: [],
+  imports: [NgmButtonModule],
   exports: [],
 })
 export class NgmModule {}
